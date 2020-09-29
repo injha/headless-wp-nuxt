@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>About</h1>
-    <p>We don't really know where this goes - and I'm not sure we really care. If these lines aren't straight, your water's going to run right out of your painting and get your floor wet. If you do too much it's going to lose its effectiveness.</p>
+    <p>This is an integrated resource listing of medical, surgical texts and other resources, written and visual including youtube/vimeo videos, demonstrations and powerpoint presentation, that provides medical students,undergraduate, postgraduate medical and surgical residents, and practicing physicians and surgeons with quick answers and input from trusted sources. </p>
     <p>You create the dream - then you bring it into your world. We don't need any guidelines or formats. All we need to do is just let it flow right out of us. Poor old tree. Maybe there's a little something happening right here.</p>
     <p>I like to beat the brush. You want your tree to have some character. Make it special. We don't have to be committed. We are just playing here. If it's not what you want - stop and change it. Don't just keep going and expect it will get better. But they're very easily killed. Clouds are delicate.</p>
     <p>A fan brush can be your best friend. We don't have to be concerned about it. We just have to let it fall where it will. Now, we're going to fluff this cloud. In your world you can create anything you desire. You're meant to have fun in life.</p>
