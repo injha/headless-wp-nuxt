@@ -3,7 +3,7 @@
     <ul>
       <li>
         <nuxt-link exact to="/">
-          <app-icon></app-icon>BlogName
+          <app-icon></app-icon>DRAMI.TK- Books and Resources for MBBS and Residents
         </nuxt-link>
       </li>
       <li>
