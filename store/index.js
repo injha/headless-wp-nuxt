@@ -1,4 +1,4 @@
-const siteURL = "http://a6b7d180da43.ngrok.io"
+const siteURL = "https://stage.tavishi.in"
 
 export const state = () => ({
   posts: [],
